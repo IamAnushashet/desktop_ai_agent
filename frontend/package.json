@@ -1,0 +1,7 @@
+{
+  "name": "desktop-ai-agent-frontend",
+  "private": true,
+  "workspaces": [
+    "mobile"
+  ]
+}
